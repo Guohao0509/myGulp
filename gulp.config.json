@@ -1,0 +1,9 @@
+{
+	"entry": "public",
+	"output": "build",
+	"js": {
+		"mangle": false
+	},
+	"css":{},
+	"html":{}
+}
